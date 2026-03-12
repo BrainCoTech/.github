@@ -5,7 +5,7 @@
 
 <p align="center">
   BrainCo is a technology company specializing in <b>robotic dexterous hands</b> and <b>neural interface devices</b>.<br>
-  We provide open-source SDKs, simulation assets, ROS packages, and ecosystem integrations for leading robot platforms.
+  This GitHub organization hosts our open-source SDKs, examples, and development resources.
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ---
 
-<!-- Hero: Revo 2 Dexterous Hand -->
+<!-- Hero: Revo Dexterous Hand -->
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/BrainCoTech/.github/main/profile/images/revo2.png" width="280" alt="Revo 2 Intelligent Dexterous Hand">
 </p> -->
 
-<h3 align="center">🦾 Revo 2 Intelligent Dexterous Hand</h3>
+<h3 align="center">🦾 Revo Intelligent Dexterous Hand</h3>
 
 <p align="center">
   Industrial-grade dexterous hand for robotic manipulation.
@@ -29,7 +29,6 @@
   <a href="https://www.brainco-hz.com/docs/revolimb-hand/"><b>📖 Documentation</b></a>
 </p>
 
----
 
 ## 🤖 Dexterous Hand — Open Source Projects
 
