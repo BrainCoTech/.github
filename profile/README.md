@@ -15,9 +15,9 @@
 ---
 
 <!-- Hero: Revo 2 Dexterous Hand -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/BrainCoTech/.github/main/profile/images/revo2.png" width="280" alt="Revo 2 Intelligent Dexterous Hand">
-</p>
+</p> -->
 
 <h3 align="center">🦾 Revo 2 Intelligent Dexterous Hand</h3>
 
@@ -141,6 +141,8 @@
 
 ## 🧠 Neural Interface — Open Source Projects
 
+> 🔒 Repositories marked with a lock are private. Please [contact us](mailto:pr@brainco.cn) for access.
+
 <table>
   <thead>
     <tr>
@@ -155,19 +157,19 @@
         <b>EEG Systems</b>
       </td>
       <td>
-        <a href="https://github.com/BrainCoTech/eeg-32ch-example">32ch EEG Examples</a><br>
+        🔒 <a href="https://github.com/BrainCoTech/eeg-32ch-example">32ch EEG Examples</a><br>
         Examples for the 32-channel EEG system.
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/BrainCoTech/brainsync-sdk-example">BrainSync Examples</a><br>
+        🔒 <a href="https://github.com/BrainCoTech/brainsync-sdk-example">BrainSync Examples</a><br>
         Examples for BrainSync multi-device synchronization.
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/BrainCoTech/bc-trb-example">TriggerHub Examples</a><br>
+        🔒 <a href="https://github.com/BrainCoTech/bc-trb-example">TriggerHub Examples</a><br>
         Examples for TriggerHub event marker system.
       </td>
     </tr>
@@ -177,7 +179,7 @@
         <b>Sleep Monitoring</b>
       </td>
       <td>
-        <a href="https://github.com/BrainCoTech/morpheus-sdk-example">Morpheus Examples</a><br>
+        🔒 <a href="https://github.com/BrainCoTech/morpheus-sdk-example">Morpheus Examples</a><br>
         Examples for Morpheus / Melody sleep monitoring devices.
       </td>
     </tr>
@@ -187,13 +189,13 @@
         <b>BCI Headbands</b>
       </td>
       <td>
-        <a href="https://github.com/BrainCoTech/oxyzen-sdk-example">OxyZen Examples</a><br>
+        🔒 <a href="https://github.com/BrainCoTech/oxyzen-sdk-example">OxyZen Examples</a><br>
         Examples for OxyZen headband.
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/BrainCoTech/crimson-sdk-example">Crimson / Clear Examples</a><br>
+        🔒 <a href="https://github.com/BrainCoTech/crimson-sdk-example">Crimson / Clear Examples</a><br>
         Examples for Crimson metal electrode headband and Clear soft headband.
       </td>
     </tr>
