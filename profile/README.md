@@ -223,6 +223,16 @@
 
 ---
 
+## 🤝 Support & Contact
+
+Need help with our SDKs, firmware, or hardware products? Reach out through the following channels:
+
+- 📋 **Technical Support:** [Submit a Ticket](https://web.static.brainco.cn/work-order)
+- 📖 **Documentation:** [Official Docs](https://www.brainco-hz.com/docs/revolimb-hand/index.html)
+- 📧 **General Inquiries:** [pr@brainco.cn](mailto:pr@brainco.cn)
+
+---
+
 ## License
 
 Each repository contains its own license. Please check the `LICENSE` file in each project.
