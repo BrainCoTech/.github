@@ -98,6 +98,16 @@
         EtherCAT driver examples for ROS 2, enabling high-frequency real-time control.
       </td>
     </tr>
+    <!-- ===== Simulation ===== -->
+    <tr>
+      <td align="center">
+        <b>Simulation</b>
+      </td>
+      <td>
+        <a href="https://github.com/BrainCoTech/RevoLab">BrainCo Isaac Lab</a><br>
+        Revo Hand simulation and reinforcement learning environments based on NVIDIA Isaac Lab.
+      </td>
+    </tr>
     <!-- ===== Ecosystem ===== -->
     <tr>
       <td colspan="1" rowspan="4" align="center">
