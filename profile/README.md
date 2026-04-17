@@ -46,7 +46,7 @@
         <b>SDK Examples</b>
       </td>
       <td>
-        <a href="https://github.com/BrainCoTech/stark-serialport-example">Revo Hand SDK Examples</a><br>
+        <a href="https://github.com/BrainCoTech/brainco-hand-sdk.git">Revo Hand SDK Examples</a><br>
         Python &amp; C++ examples for Revo 2 / Revo 1, Control Glove, and EMG Armband.
       </td>
     </tr>
