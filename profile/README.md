@@ -60,20 +60,26 @@
         Firmware releases for Revo 2 (Basic / Advanced / Tactile). Protocol support varies by variant: RS-485, CAN 2.0A, CAN FD, EtherCAT.
       </td>
     </tr>
-    <!-- ===== URDF ===== -->
+    <!-- ===== Digital Assets ===== -->
     <tr>
-      <td colspan="1" rowspan="2" align="center">
-        <b>URDF</b>
+      <td colspan="1" rowspan="3" align="center">
+        <b>Digital Assets</b>
       </td>
       <td>
-        <a href="https://github.com/BrainCoTech/revo2_description">Revo Hand URDF (ROS 2)</a><br>
-        URDF description package for ROS 2 and simulation platforms (Isaac Sim, MuJoCo, etc.).
+        <a href="https://github.com/BrainCoTech/brainco-description">BrainCo Description</a><br>
+        Up-to-date URDF, MJCF, and USD assets for Revo2, Revo3, and Arms. Recommended for ROS 2, Isaac Sim, MuJoCo, and modern simulation workflows.
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/BrainCoTech/revo2_description_ros1">Revo Hand URDF (ROS 1)</a><br>
-        URDF description package for ROS 1.
+        <a href="https://github.com/BrainCoTech/revo2_description">Legacy Revo2 URDF for ROS 2</a><br>
+        Legacy ROS 2 URDF package for Revo2 compatibility.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/BrainCoTech/revo2_description_ros1">Legacy Revo2 URDF for ROS 1</a><br>
+        Legacy ROS 1 URDF package for Revo2 compatibility.
       </td>
     </tr>
     <!-- ===== ROS ===== -->
@@ -105,7 +111,7 @@
       </td>
       <td>
         <a href="https://github.com/BrainCoTech/RevoLab">Revo Hand Isaac Lab</a><br>
-        Simulation and reinforcement learning environments based on NVIDIA Isaac Lab.
+        Reinforcement learning environments based on NVIDIA Isaac Lab, and sim-to-real scripts.
       </td>
     </tr>
     <!-- ===== Ecosystem ===== -->
