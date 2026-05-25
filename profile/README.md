@@ -46,14 +46,14 @@
         <b>SDK</b>
       </td>
       <td>
-        <a href="https://github.com/BrainCoTech/brainco-revo3-sdk">Revo 3 SDK</a><br>
-        This repository provides example applications and integration code demonstrating how to control BrainCo Revo3 dexterous hands using the SDK.
+        <a href="https://github.com/BrainCoTech/brainco-revo3-sdk">Revo3 Hand SDK</a><br>
+        Python &amp; C/C++ examples for Revo 3.
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/BrainCoTech/brainco-hand-sdk">Revo Hand SDK</a><br>
-        Python &amp; C++ examples for Revo 2 / Revo 1, Control Glove, and EMG Armband.
+        <a href="https://github.com/BrainCoTech/brainco-hand-sdk">Revo2 Hand SDK</a><br>
+        Python &amp; C/C++ examples for Revo 2 / Revo 1, Control Glove, and EMG Armband.
       </td>
     </tr>
     <!-- ===== Firmware ===== -->
