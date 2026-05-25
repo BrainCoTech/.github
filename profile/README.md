@@ -47,7 +47,7 @@
       </td>
       <td>
         <a href="https://github.com/BrainCoTech/brainco-revo3-sdk">Revo 3 SDK</a><br>
-        Rust, C &amp; Python SDK for Revo 3 (23-motor, 21-DoF High-DoF Intelligent Dexterous Hand).
+        This repository provides example applications and integration code demonstrating how to control BrainCo Revo3 dexterous hands using the SDK.
       </td>
     </tr>
     <tr>
