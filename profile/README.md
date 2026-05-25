@@ -42,9 +42,15 @@
   <tbody>
     <!-- ===== SDK & Examples ===== -->
     <tr>
-      <td align="center">
+      <td colspan="1" rowspan="2" align="center">
         <b>SDK</b>
       </td>
+      <td>
+        <a href="https://github.com/BrainCoTech/brainco-revo3-sdk">Revo 3 SDK</a><br>
+        Rust, C &amp; Python SDK for Revo 3 (23-motor, 21-DoF High-DoF Intelligent Dexterous Hand).
+      </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://github.com/BrainCoTech/brainco-hand-sdk">Revo Hand SDK</a><br>
         Python &amp; C++ examples for Revo 2 / Revo 1, Control Glove, and EMG Armband.
