@@ -90,12 +90,18 @@
     </tr>
     <!-- ===== ROS ===== -->
     <tr>
-      <td colspan="1" rowspan="3" align="center">
+      <td colspan="1" rowspan="4" align="center">
         <b>ROS</b>
       </td>
       <td>
+        <a href="https://github.com/BrainCoTech/brainco_revo3_ros2">Revo3 Hand ROS 2 Driver</a><br>
+        ROS 2 Humble packages for Revo3 21-DoF hands, including hardware driver, URDF/xacro description, and MIT command controller.
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/BrainCoTech/brainco_hand_ros2">Revo Hand ROS 2 Driver</a><br>
-        ROS 2 driver for Revo Hand control.
+        ROS 2 driver for Revo 2 / Revo 1 hand control.
       </td>
     </tr>
     <tr>
