@@ -118,11 +118,17 @@
     </tr>
     <!-- ===== Simulation ===== -->
     <tr>
-      <td align="center">
+      <td rowspan="2" align="center">
         <b>Simulation</b>
       </td>
       <td>
-        <a href="https://github.com/BrainCoTech/RevoLab">Revo Hand Isaac Lab</a><br>
+        <a href="https://github.com/BrainCoTech/RevoSim">RevoSim (Tactile Simulation)</a><br>
+        Full-hand multimodal tactile simulation based on NVIDIA Isaac Sim, including fingertip visuotactile sensing and whole-hand piezoresistive responses.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/BrainCoTech/RevoLab">RevoLab (Reinforcement Learning)</a><br>
         Reinforcement learning environments based on NVIDIA Isaac Lab, and sim-to-real scripts.
       </td>
     </tr>
