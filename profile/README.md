@@ -161,6 +161,9 @@
     <tr>
       <td>
         📖 <b>Teleoperation:</b><br>
+        <a href="https://github.com/BrainCoTech/Revo-Retargeting/tree/revo3_retargeting">Revo3 + MANUS Glove</a><br>
+        <a href="https://github.com/BrainCoTech/Revo-Retargeting/tree/revo2_retargeting">Revo2 + MANUS / Hex Glove</a><br>
+        ROS 2 Humble teleoperation workspaces; select the branch for your hardware.<br>
         <a href="https://www.brainco-hz.com/docs/revolimb-hand/ecology/arm.html">Revo Hand + EMG Armband</a><br>
         <a href="https://www.brainco-hz.com/docs/revolimb-hand/ecology/glove_brainco.html">Revo Hand + BrainCo Glove</a><br>
         <a href="https://www.brainco-hz.com/docs/revolimb-hand/ecology/glove_manus.html">Revo Hand + Manus Glove</a><br>
