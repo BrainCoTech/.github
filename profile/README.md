@@ -63,7 +63,7 @@
       </td>
       <td>
         <a href="https://github.com/BrainCoTech/revo-hand-firmware">Revo Hand Firmware</a><br>
-        Firmware releases for Revo 2 (Basic / Advanced / Tactile). Protocol support varies by variant: RS-485, CAN 2.0A, CAN FD, EtherCAT.
+        Firmware releases for Revo 2 (Basic / Advanced / Tactile) and the Revo 3 main controller. Supported update protocols vary by model.
       </td>
     </tr>
     <!-- ===== Digital Assets ===== -->
@@ -73,7 +73,8 @@
       </td>
       <td>
         <a href="https://github.com/BrainCoTech/brainco-description">BrainCo Description</a><br>
-        Up-to-date URDF, MJCF, and USD assets for Revo2, Revo3, and Arms. Recommended for ROS 2, Isaac Sim, MuJoCo, and modern simulation workflows.
+        URDF assets and conversion tools for Revo 2, Revo 3, and robotic arms. Generate MJCF and USD locally using the <a href="https://github.com/BrainCoTech/brainco-description/blob/main/CONVERSION.md">conversion guide</a>.<br>
+        <a href="https://github.com/BrainCoTech/brainco-description/blob/main/RELEASE_NOTES.md#20261025">20261025 release notes</a>
       </td>
     </tr>
     <tr>
